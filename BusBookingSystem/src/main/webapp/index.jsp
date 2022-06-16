@@ -6,7 +6,6 @@
 <html lang="en">
 
 <head>
-<!-- Basic -->
 <title>Bus Ticket Booking System | Home</title>
 
 <!-- Define Charset -->
